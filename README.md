@@ -1,2 +1,2 @@
-# data-enjineering-subject
-데이터엔지니어링 과제
+# data-enjineering-assignment
+### 과제 1: Receipts for Lovely Loveseats
